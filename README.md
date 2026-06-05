@@ -4,7 +4,7 @@
 
 
 🌟 **QA Lead | SDET | Shift-Left Strategy | AI in Testing**  
-🤖 Currently exploring **Gen-AI, LLMs, MCP, Amazon Kiro, Amazon Q, and AI-assisted QA workflows** to redefine modern test automation strategies.
+🤖 Currently exploring **Agentic AI, Claude Code , LLMs, MCP, Amazon Kiro, Amazon Q, and AI-assisted QA workflows** to redefine modern test automation strategies.
 
 ---
 
